@@ -22,4 +22,4 @@ g++ -std=c++11 CodeSmellDetector.cpp -o CodeSmellDetector
 
 To run the code smell detector program:
 
-./CodeSmellDetector filetotest.cpp
+./CodeSmellDetector example.cpp
