@@ -15,9 +15,6 @@ I have facilitated the user experience, provided a user interface for the follow
 - Detect whether long method/function exists in ANY of the functions on the function list. If it does, which methods/function? 
 - Detect whether Long Parameter List exists in ANY of the functions on the function list. If it does, which methods/function? 
 - Detect whether Duplicated Code exists in ANY of the functions on the function list. If it does, which two methods/function are duplicated?
- 
-Assumptions:
-1. no comments provided in the cpp file
 
 Command to compile cpp program in mac:
 
